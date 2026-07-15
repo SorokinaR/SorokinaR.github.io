@@ -8,21 +8,14 @@ updated: 2026-07-15
 canonical: https://sorokinar.github.io/
 lang: ru
 ---
-<!-- Здесь можно разместить стили для всей страницы -->
-<style>
-  .my-highlight {
-    background-color: #fff3cd;
-    color: #856404;
-    padding: 2px 5px;
-    border-radius: 4px;
-  }
-  strong {
-    color: #d63384;
-  }
-</style>
 
-# Заголовок страницы
+# Коротко о дизайне
 
-Это обычный текст, а это текст с <span class="my-highlight">специальным выделением</span>.
-
-А это **жирный текст**, который стал розовым благодаря стилю выше.
++ [**Принпип приближенности**](design/proximity.md)
++ [**Принцип выравнивания**](design/alignment.md)
++ [**Принцип повторения**](design/repetition.md)
++ [**Принцип контраста**](design/contrast.md)
++ [**Самый главный принцип**](design/main_principle.md)
++ [**Дизайн в цвете**](design/color.md)
++ [**Основы типографики**](design/typography.md)
++ [**Шрифты и их сочетания**](design/fonts.md)
