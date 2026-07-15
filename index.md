@@ -8,7 +8,7 @@ updated: 2026-07-15
 canonical: https://sorokinar.github.io/
 lang: ru
 ---
-
+![Дизайн для писателя](assets/logo.jpg)
 # Коротко о дизайне
 
 + [**Принпип приближенности**](design/proximity.md)
