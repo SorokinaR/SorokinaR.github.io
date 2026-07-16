@@ -12,12 +12,3 @@ lang: ru
 # Краткий конспект о писательстве и графическом дизайне
 
 [Коротко о графическом дизайне](/design/design.md)
-
-+ [**Принпип приближенности**](/design/proximity.md)
-+ [**Принцип выравнивания**](/design/alignment.md)
-+ [**Принцип повторения**](/design/repetition.md)
-+ [**Принцип контраста**](/design/contrast.md)
-+ [**Самый главный принцип**](/design/main_principle.md)
-+ [**Дизайн в цвете**](/design/color.md)
-+ [**Основы типографики**](/design/typography.md)
-+ [**Шрифты и их сочетания**](/design/fonts.md)
